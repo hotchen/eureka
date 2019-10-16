@@ -2,80 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12fd2fa5-c219-48fc-8f53-27040199e123" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ribbon/Ribbon.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ribbon/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ribbon/src/main/java/RibbonApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ribbon/src/main/java/controller/RibbonHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ribbon/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/Zuul.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/java/ZuulApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/java/controller/StudentHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/java/entity/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/java/repositity/StudentResposity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/java/repositity/StudentResposityImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zuul/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/feign.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/FeignApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/contorller/FeignHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/entity/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/feign/FeignError.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/feign/FeignProviderClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/repositity/StudentResposity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/java/repositity/StudentResposityImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feign/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/hystrix.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/java/HystrixApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/java/controller/HystrixHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/java/entity/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/java/feign/FeignError.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/java/feign/FeignProviderClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hystrix/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigClient/naiveConfigClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigClient/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigClient/src/main/resources/bootstrap.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigServer/naiveConfigServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigServer/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigServer/src/main/java/NativeConfigServerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigServer/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveConfigServer/src/main/resources/shared/config-server-dev.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eurekaClient/src/main/java/com/gonggui/controller/StudentHandler.java" afterPath="$PROJECT_DIR$/eurekaClient/src/main/java/com/gonggui/controller/StudentHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1271,12 +1198,20 @@
       <workItem from="1570961333666" duration="4227000" />
       <workItem from="1570967029793" duration="4706000" />
       <workItem from="1570975011407" duration="342000" />
-      <workItem from="1571236386617" duration="8464000" />
+      <workItem from="1571236386617" duration="8569000" />
     </task>
+    <task id="LOCAL-00001" summary="feature-zuul网关，ribbon，feign，hystix等的基本使用">
+      <created>1571245046472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571245046472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19310000" />
+    <option name="totallyTimeSpent" value="19415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1320,6 +1255,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature-zuul网关，ribbon，feign，hystix等的基本使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature-zuul网关，ribbon，feign，hystix等的基本使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1466,9 +1405,9 @@
         <state relative-caret-position="336">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#465#466#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1494,11 +1433,11 @@
         <state relative-caret-position="300">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#725#726#0" expanded="false" />
+            <element signature="e#775#776#0" expanded="false" />
+            <element signature="e#827#828#0" expanded="false" />
+            <element signature="e#870#871#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1508,7 +1447,7 @@
         <state relative-caret-position="480">
           <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
-            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1518,11 +1457,11 @@
         <state relative-caret-position="237">
           <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#437#438#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+            <element signature="e#616#617#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1532,7 +1471,7 @@
         <state relative-caret-position="87">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
