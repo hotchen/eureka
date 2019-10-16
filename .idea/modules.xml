@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ribbon/Ribbon.iml" filepath="$PROJECT_DIR$/Ribbon/Ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul/Zuul.iml" filepath="$PROJECT_DIR$/Zuul/Zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka.iml" filepath="$PROJECT_DIR$/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaClient/eurekaClient.iml" filepath="$PROJECT_DIR$/eurekaClient/eurekaClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naiveConfigClient/naiveConfigClient.iml" filepath="$PROJECT_DIR$/naiveConfigClient/naiveConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naiveConfigServer/naiveConfigServer.iml" filepath="$PROJECT_DIR$/naiveConfigServer/naiveConfigServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/resttemplate/resttemplate.iml" filepath="$PROJECT_DIR$/resttemplate/resttemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/userConsumer/userConsumer.iml" filepath="$PROJECT_DIR$/userConsumer/userConsumer.iml" />
     </modules>

@@ -13,6 +13,12 @@
         <module>eurekaClient</module>
         <module>userConsumer</module>
         <module>resttemplate</module>
+        <module>Zuul</module>
+        <module>Ribbon</module>
+        <module>feign</module>
+        <module>hystrix</module>
+        <module>naiveConfigServer</module>
+        <module>naiveConfigClient</module>
     </modules>
 
     <!--导入springboot的parenet依赖和web依赖-->

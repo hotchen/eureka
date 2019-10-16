@@ -1,0 +1,11 @@
+server:
+  port: 8050
+spring:
+  application:
+    name: feign
+eureka:
+  instance:
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true

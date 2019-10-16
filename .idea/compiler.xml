@@ -8,16 +8,28 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaClient" />
         <module name="eurekaServer" />
+        <module name="feign" />
+        <module name="hystrix" />
+        <module name="naiveConfigClient" />
+        <module name="naiveConfigServer" />
         <module name="resttemplate" />
+        <module name="Ribbon" />
         <module name="userConsumer" />
+        <module name="Zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="eurekaClient" target="1.8" />
       <module name="eurekaServer" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="hystrix" target="1.8" />
+      <module name="naiveConfigClient" target="1.8" />
+      <module name="naiveConfigServer" target="1.8" />
       <module name="resttemplate" target="1.8" />
+      <module name="Ribbon" target="1.8" />
       <module name="userConsumer" target="1.8" />
+      <module name="Zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
